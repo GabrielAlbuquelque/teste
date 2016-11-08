@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Exemplo de teste</h1>
+
+<p id="var">JavaScript can change HTML content.</p>
+
+<button type="button" onclick="document.getElementById('var').innerHTML = 'Hello JavaScript!'">clique!</button>
+
+</body>
+</html>
+
